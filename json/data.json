@@ -1,0 +1,64 @@
+{
+    "1": {
+        "ear_length": 20,
+        "eyes_width": 7,
+        "head_size": 30,
+        "body_size": 55
+    },
+    "2": {
+        "ear_length": 45,
+        "eyes_width": 30,
+        "head_size": 60,
+        "body_size": 60
+    },
+    "3": {
+        "ear_length": 70,
+        "eyes_width": 15,
+        "head_size": 65,
+        "body_size": 30
+    },
+    "4": {
+        "ear_length": 30,
+        "eyes_width": 7,
+        "head_size": 30,
+        "body_size": 90
+    },
+    "5": {
+        "ear_length": 15,
+        "eyes_width": 20,
+        "head_size": 40,
+        "body_size": 120
+    },
+    "6": {
+        "ear_length": 65,
+        "eyes_width": 8,
+        "head_size": 30,
+        "body_size": 30
+    },
+    "7": {
+        "ear_length": 58,
+        "eyes_width": 20,
+        "head_size": 45,
+        "body_size": 88
+    },
+    "8": {
+        "ear_length": 72,
+        "eyes_width": 5,
+        "head_size": 48,
+        "body_size": 71
+    },
+    "9": {
+        "ear_length": 41,
+        "eyes_width": 3,
+        "head_size": 35,
+        "body_size": 101
+    },
+    "10": {
+        "ear_length": 50,
+        "eyes_width": 15,
+        "head_size": 29,
+        "body_size": 65
+    }
+}
+
+
